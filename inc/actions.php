@@ -15,7 +15,7 @@
                         <div class="simple-card__img">
 
                             <img width="400"
-                                 data-src="/upload/resize_cache/webp/iblock/8cf/zoryiwk4cxaov5ww1bbm9rnonim7a4wm.webp"
+                                 src="<?=IMG?>actions/get_gifts.webp"
                                  class="lazyload img action-slide-img" height="200">
                         </div>
                         <div class="simple-card__body">
@@ -40,7 +40,7 @@
                         <div class="simple-card__img">
 
                             <img width="400"
-                                 data-src="/upload/resize_cache/webp/iblock/c9b/rw4uytsfz44pkia3todc87bzjtlkc7b2.webp"
+                                 src="<?=IMG?>actions/discount20.webp"
                                  class="lazyload img action-slide-img" height="200">
                         </div>
                         <div class="simple-card__body">
@@ -65,7 +65,7 @@
                         <div class="simple-card__img">
 
                             <img width="400"
-                                 data-src="/upload/resize_cache/webp/iblock/f8f/hq6dkwenw169k2npu2fpotu53xygyc1p.webp"
+                                 src="<?=IMG?>actions/safe_windows.webp"
                                  class="lazyload img action-slide-img" height="200">
                         </div>
                         <div class="simple-card__body">
@@ -90,15 +90,15 @@
                         <div class="simple-card__img">
 
                             <img width="400"
-                                 data-src="/upload/resize_cache/webp/iblock/358/f7uh233muxbtzdyiwl9oepel1g63ovlt.webp"
+                                 src="<?=IMG?>actions/balcony.jpg"
                                  class="lazyload img action-slide-img" height="200">
                         </div>
                         <div class="simple-card__body">
                             <div class="no-style simple-card__title">
-                                Остекление зимой - выгодно!
+                                Создайте комфортную зону на балконе!
                             </div>
 
-                            <div class="simple-card__desc">Не боимся холодов! Присоединяйся к нам!</div>
+                            <div class="simple-card__desc">Обустроим балкон! Создадим уют на лоджии!</div>
                         </div>
                         <div class="simple-card__bottom">
                             <button class="btn btn--red" data-modal-window="#modal-calc-win">Заказать расчет
@@ -114,7 +114,7 @@
                         <div class="simple-card__img">
 
                             <img width="400"
-                                 data-src="/upload/resize_cache/webp/iblock/ab4/x7pjlio11mwhfgy7y9ol75jm9ev0tn3z.webp"
+                                 src="<?=IMG?>actions/save_cats.webp"
                                  class="lazyload img action-slide-img" height="200">
                         </div>
                         <div class="simple-card__body">

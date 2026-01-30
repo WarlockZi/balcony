@@ -13993,7 +13993,7 @@ t("div",{staticClass:"configurator__card-schema",on:{click:function(t){return e.
                 (this.calculateMosq(r),
                   this.mountingPrice &&
                     c.actionFilter({
-                      action: "counting_msq_amount",
+                      // action: "counting_msq_amount",
                       duration: 300,
                       action: () => {
                         this.setMountingData(!0);
@@ -14257,7 +14257,7 @@ t("div",{staticClass:"configurator__card-schema",on:{click:function(t){return e.
                 (this.calculateMosq(r),
                   this.mountingPrice &&
                     c.actionFilter({
-                      action: "counting_msq_amount",
+                      // action: "counting_msq_amount",
                       duration: 300,
                       action: () => {
                         this.setMountingData(!0);

@@ -86,7 +86,7 @@
                     <div class="reviews-list__item-title-block">
                         <div>
                             <img src="<?=IMG?>review/Савушкин.jpg"
-                                 class="lazyload">
+                                 class="lazyload" alt="">
                         </div>
                         <div class="reviews-list__item-title">
                             Геннадий Савушкин
