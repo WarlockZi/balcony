@@ -12,7 +12,7 @@
 
     <meta name="keywords" content="<?=DATA['seo_keywords']?>">
     <meta name="description" content=<?=DATA['seo_description']?>>
-    <title>{{$data['seo_title']}}</title>
+    <title><?=DATA['seo_title']?></title>
 
     <link href="<?=CSS?>styles.css" type="text/css" data-template-style="true" rel="stylesheet">
     <link href="<?=CSS?>template_styles.css" type="text/css" data-template-style="true" rel="stylesheet">
@@ -24,7 +24,7 @@
     <script defer="" src="<?=JS?>vendors_hash%253D3974e78eae913c6dc5aa.js"></script>
     <script defer="" src="<?=JS?>scripts.js"></script>
 
-    <link rel="shortcut icon" href="/public/src/balcony/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="<?=IMG?>favicon.ico" type="image/x-icon">
 
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">

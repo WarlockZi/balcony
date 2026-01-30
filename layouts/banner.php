@@ -54,38 +54,13 @@
                     </div>
                 </div>
             </div>
-{{--            <div class="stock-banner__item swiper-slide js-stock-banner-slide" data-is-video="false"--}}
-{{--                 data-desktop-video="" data-mobile-video="" data-slide-index="2" data-mobile-color=""--}}
-{{--                 data-text-color="">--}}
-{{--                <div class="stock-banner__item-bg stock-banner__item-bg--animation-scale">--}}
-{{--                    <img alt="Акция" width="5712" height="4284" class="lazyload"--}}
 
-{{--                         src="<?=IMG?>slider/delivery.webp"--}}
-{{--                    >--}}
-{{--                </div>--}}
-
-{{--                <div class="stock-banner__item-content">--}}
-{{--                    <div class="h2 stock-banner__item-title js-slide-title">Акция</div>--}}
-{{--                    <div class="stock-banner__item-desc js-slide-desc">--}}
-{{--                        <div class="p">При заказе от 3-х кашированных изделий – доставка бесплатно</div>--}}
-{{--                    </div>--}}
-
-{{--                    <div class="stock-banner__spacer"></div>--}}
-{{--                    <div class="stock-banner__btn">--}}
-{{--                        <a class="no-style btn btn--red" data-modal-window="#modal-zamer" href="">Записаться на--}}
-{{--                            замер</a>--}}
-{{--                        <a class="no-style btn btn--blue only-desktop" href="/kottedzhi-i-doma/osteklenie/">Подробнее</a>--}}
-
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
             <div class="stock-banner__item swiper-slide js-stock-banner-slide" data-is-video="false"
                  data-desktop-video="" data-mobile-video="" data-slide-index="3" data-mobile-color=""
                  data-text-color="">
                 <div class="stock-banner__item-bg stock-banner__item-bg--animation-scale">
                     <img alt="Дарим подарки" width="2560" height="1600" class="lazyload"
-                         {{--                                 @deb--}}
-                         src="<?=DATA['slider']?>gift.webp">
+                         src="<?=IMG?>slider/gift.webp">
 
                 </div>
 
