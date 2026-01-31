@@ -24,7 +24,7 @@
                     <div class="stock-banner__btn">
                         <a class="no-style btn btn--red" data-modal-window="#modal-zamer" href="">Записаться на
                             замер</a>
-                        <a class="no-style btn btn--blue only-desktop" href="<?=DATA['domain']?>/lodgii/">Подробнее</a>
+                        <a class="no-style btn btn--blue only-desktop" href="<?=DATA['domain']?>lodgii/">Подробнее</a>
 
                     </div>
                 </div>

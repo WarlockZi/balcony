@@ -25,7 +25,7 @@ $conf = [
     'work_to' => '19:00'
 ];
 $data = [
-    'domain' => '/balcony',
+    'domain' => '/',
     'address' => 'г. Вологда, ул. Октябрьская, 27',
     'email_href' => "mailto:{$conf['email']}",
     'phone_href' => "tel:{$conf['phone']}",

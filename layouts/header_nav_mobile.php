@@ -22,30 +22,30 @@
                                         <use xlink:href="/public/src/balcony/images/interface.svg#short-arrow-left"></use>
                                     </svg>
                                 </div>
-                                <a href="/lodgii/" class="no-style mob-mg-submenu__head-label">
+                                <a href=""<?=DATA['domain']?>lodgii/" class="no-style mob-mg-submenu__head-label">
                                     Балконы и лоджии </a></div>
                             <ul class="mob-mg-submenu__list">
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="<?=DATA['domain']?>/lodgii/" class="no-style mob-mg-item">
+                                            href="<?=DATA['domain']?>lodgii/" class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Остекление балконов и лоджий</div>
                                     </a></li>
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="<?=DATA['domain']?>/lodgii/"
+                                            href="<?=DATA['domain']?>lodgii/"
                                             class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Теплое остекление</div>
                                     </a></li>
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="<?=DATA['domain']?>/lodgii/"
+                                            href="<?=DATA['domain']?>lodgii/"
                                             class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Холодное алюминиевое остекление</div>
                                     </a></li>
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="<?=DATA['domain']?>/lodgii/"
+                                            href="<?=DATA['domain']?>lodgii/"
                                             class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Французское остекление</div>
                                     </a></li>
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="<?=DATA['domain']?>/lodgii/" class="no-style mob-mg-item">
+                                            href="<?=DATA['domain']?>lodgii/" class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Отделка балконов и лоджий</div>
                                     </a></li>
                             </ul>

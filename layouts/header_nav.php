@@ -87,7 +87,7 @@
 
                 <ul class="swiper-wrapper head-menu__bottom-wrapper">
                     <li class="swiper-slide mega-menu__item js-mega-menu-item ">
-                        <a href="<?=DATA['domain']?>/lodgii/" class="no-style mega-menu-item ">
+                        <a href="<?=DATA['domain']?>lodgii/" class="no-style mega-menu-item ">
                             <div class="mega-menu-item__label">Балконы и лоджии</div>
                         </a>
                     </li>

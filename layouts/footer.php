@@ -58,7 +58,7 @@
                         </ul>
                     </li>
                     <li class="footer-menu__item">
-                        <a class="no-style footer-menu__item-link" href="<?=DATA['domain']?>/lodgii/">Остекление
+                        <a class="no-style footer-menu__item-link" href="<?=DATA['domain']?>lodgii/">Остекление
                             балконов и лоджий</a>
                         <ul class="footer-menu__submenu footer-submenu">
                             <li class="footer-submenu__item">
@@ -185,8 +185,7 @@
         <div class="footer__bottom">
             <div class="footer__info footer-info">
                 <div class="footer-info__copyright">
-                    <p class="p--small">
-                        © 2026 Все права защищены.</p>
+                    <p class="p--small">Создано в VORONIKLAB © 2026 Все права защищены.</p>
                 </div>
 
             </div>
