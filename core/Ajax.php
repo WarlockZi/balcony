@@ -1,11 +1,12 @@
 <?php
 
-namespace action;
+namespace core;
 
-class BalconyAction
+class Ajax
 {
-    public function sendTg()
+    public static function handle(string $url): bool
     {
+        $method = $url;
         $token = $_ENV['BALCONY_TOKEN'];
         $chatId = $_ENV['BALCONY_CHANAL_ID'];
 
@@ -42,6 +43,6 @@ class BalconyAction
                 echo "Ошибка: " . $responseData['description'];
             }
         }
+        return true;
     }
-
 }

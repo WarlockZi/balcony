@@ -92,19 +92,19 @@
                         </a>
                     </li>
                     <li class="swiper-slide mega-menu__item js-mega-menu-item ">
-                        <a href="/balcony/windows/" class="no-style mega-menu-item ">
+                        <a href="/windows" class="no-style mega-menu-item ">
                             <div class="mega-menu-item__label">Пластиковые окна</div>
                         </a>
                     </li>
 
                     <li class="swiper-slide mega-menu__item js-mega-menu-item ">
-                        <a href="/kottedzhi-i-doma/osteklenie/" class="no-style mega-menu-item ">
+                        <a href="/kottedzhi-i-doma" class="no-style mega-menu-item ">
                             <div class="mega-menu-item__label">Коттеджи и дачи</div>
                         </a>
                     </li>
 
                     <li class="swiper-slide mega-menu__item js-mega-menu-item ">
-                        <a href="/servis/" class="no-style mega-menu-item ">
+                        <a href="/service" class="no-style mega-menu-item ">
                             <div class="mega-menu-item__label">Сервис</div>
                         </a>
                     </li>
@@ -114,7 +114,7 @@
                         </div>
                     </li>
                     <li class="swiper-slide mega-menu__item js-mega-menu-item ">
-                        <a href="/actions/" class="no-style mega-menu-item ">
+                        <a href="/accii" class="no-style mega-menu-item ">
                             <div class="mega-menu-item__label">Акции</div>
                         </a>
                     </li>

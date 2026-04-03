@@ -29,7 +29,7 @@ class Route
     protected function parseUri($uri)
     {
         $arr         = explode('?', $uri);
-        $this->uri   = $arr[0];
+        $this->uri   = str_replace('/public/', '',$arr[0]);
         $this->query = $arr[1] ?? '';
         $this->parseParams($this->query);
     }

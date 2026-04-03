@@ -16,7 +16,7 @@
 </script>
 
 <div class="whatsapp-button">
-    <a href="{{$data['tg_href']}}" target="_blank">
+    <a href="<?=CONF['tg_href']?>" target="_blank">
         <img src="<?=IMG?>telegram.svg" alt="Связаться в Телеграм">
     </a>
 </div>
@@ -39,7 +39,7 @@
         <div class="side-labels"></div>
 
 
-        <?php include LAYOUT. 'banner.php';?>
+<!--        --><?php //include LAYOUT . 'index_banner.php';?>
 
     </header>
 </div>

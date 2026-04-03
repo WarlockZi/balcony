@@ -115,7 +115,7 @@
                                         <use xlink:href="/public/src/balcony/images/interface.svg#short-arrow-left"></use>
                                     </svg>
                                 </div>
-                                <a href="/kottedzhi-i-doma/osteklenie/" class="no-style mob-mg-submenu__head-label">
+                                <a href="/kottedzhi-i-doma" class="no-style mob-mg-submenu__head-label">
                                     Коттеджи и дачи </a></div>
                             <ul class="mob-mg-submenu__list">
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/kottedzhi-i-doma/osteklenie/"
@@ -123,11 +123,11 @@
                                         <div class="mob-mg-item__label">Остекление коттеджей и домов</div>
                                     </a></li>
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="/kottedzhi-i-doma/osteklenie-besedok/" class="no-style mob-mg-item">
+                                            href="/kottedzhi-i-doma" class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Остекление беседок и террас</div>
                                     </a></li>
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="/kottedzhi-i-doma/dachnoe-osteklenie/" class="no-style mob-mg-item">
+                                            href="/kottedzhi-i-doma" class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Дачное остекление</div>
                                     </a></li>
                             </ul>
@@ -151,29 +151,29 @@
                                         <use xlink:href="/public/src/balcony/images/interface.svg#short-arrow-left"></use>
                                     </svg>
                                 </div>
-                                <a href="/servis/" class="no-style mob-mg-submenu__head-label"> Сервис </a></div>
+                                <a href="/service" class="no-style mob-mg-submenu__head-label"> Сервис </a></div>
                             <ul class="mob-mg-submenu__list">
-                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/servis/zamena-uplotnitelya/"
+                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/service"
                                                                                    class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Замена уплотнителя, регулировка пластиковых окон
                                             и дверей
                                         </div>
                                     </a></li>
-                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/servis/zamena-steklopaketa/"
+                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/service"
                                                                                    class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Замена стеклопакета</div>
                                     </a></li>
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a
-                                            href="/servis/remont-i-zamena-furnitury/" class="no-style mob-mg-item">
+                                            href="/service" class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Ремонт и замена фурнитуры</div>
                                     </a></li>
-                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/servis/zamena-otkosov/"
+                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/service"
                                                                                    class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Замена откосов и подоконникв, наружняя отделка
                                             окна
                                         </div>
                                     </a></li>
-                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/servis/detskaya-bezopasnost/"
+                                <li class="mob-mg-submenu__item js-mob-mg-item"><a href="/service"
                                                                                    class="no-style mob-mg-item">
                                         <div class="mob-mg-item__label">Детская безопасность</div>
                                     </a></li>
@@ -229,7 +229,7 @@
                         </div>
                     </li>
 
-                    <li class="mob-mega-menu__item js-mob-mg-item"><a href="{{$domain}}/actions/" class="no-style mob-mg-item">
+                    <li class="mob-mega-menu__item js-mob-mg-item"><a href="/accii" class="no-style mob-mg-item">
                             <div class="mob-mg-item__label">Акции</div>
                         </a></li>
 

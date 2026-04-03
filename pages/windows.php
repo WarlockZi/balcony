@@ -1,10 +1,11 @@
     <main class="main-container">
 
-        @include('admin.balcony.cta1_zamer')
-
-        @include('admin.balcony.window')
-        @include('admin.balcony.examples')
-
-        @include('admin.balcony.reviews')
+        <?php
+        include INC . 'hero_banner/window_banner.php';
+        include INC . 'cta1_zamer.php';
+        include INC . 'window.php';
+        include INC . 'examples.php';
+        include INC . 'reviews.php';
+        ?>
 
     </main>

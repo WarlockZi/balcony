@@ -6,14 +6,14 @@ class Router
 {
     public function __construct(
         private array $routes = [
-            '/^\/(?P<page>portfolio\/project)\/(?P<id>[0-9a-zA-z]+)$/',
-            '/^\/(?P<page>portfolio)$/',
-            '/^\/(?P<page>services)$/',
-            '/^\/(?P<page>about)$/',
-            '/^\/(?P<page>contact)$/',
-            '/^\/(?P<page>privacy)$/',
-            '/^\/(?P<page>form-handler)$/',
-            '/^\/$/',
+            'lodgii'=>'/lodgii/',
+            'windows'=>'/windows/',
+            'kottedzhi-i-doma'=>'/kottedzhi-i-doma/',
+            'service'=>'/service/',
+            'dopolnitelno'=>'/dopolnitelno/',
+            'accii'=>'/accii/',
+            'ajax'=>'/ajax/',
+            'index'=>'/\//',
         ],
         private Route $route = new Route(),
     )
@@ -22,12 +22,17 @@ class Router
         $this->route->setMethod($_SERVER['REQUEST_METHOD']);
         if ($this->routeFound()) {
 
-            $path = PAGE."{$this->route->page}.php";
+            $url = $this->route->page;
+            if ($url==='ajax'){
+                if (Ajax::handle($url))
+                exit();
+            }
+
+            $path = PAGE."{$url}.php";
             ob_start();
             include $path;
             $content = ob_get_clean();
 
-//            $layout = include '../layouts/layout.php';
             ob_start();
             include '../layouts/layout.php';
             $layout = ob_get_clean();
@@ -38,13 +43,12 @@ class Router
     private function routeFound(): bool
     {
         $found = false;
-        foreach ($this->routes as $pattern) {
+        foreach ($this->routes as $page=>$pattern) {
             if ($found) break;
             $matches = preg_match($pattern, $this->route->getUri(), $ma);
             if ($matches) {
                 $found             = true;
-                $this->route->page = $ma['page'] ?? 'index';
-                $this->route->id   = $ma['id'] ?? 0;
+                $this->route->page = $page;
             }
         }
 

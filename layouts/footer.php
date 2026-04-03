@@ -86,16 +86,16 @@
                         </ul>
                     </li>
                     <li class="footer-menu__item">
-                        <a class="no-style footer-menu__item-link" href="/kottedzhi-i-doma/osteklenie/">Остекление
+                        <a class="no-style footer-menu__item-link" href="/kottedzhi-i-doma">Остекление
                             домов и коттеджей</a>
                         <ul class="footer-menu__submenu footer-submenu">
                             <li class="footer-submenu__item">
                                 <a class="no-style footer-submenu__item-link"
-                                   href="/kottedzhi-i-doma/osteklenie-besedok/">Остекление беседок </a>
+                                   href="/kottedzhi-i-doma">Остекление беседок </a>
                             </li>
                             <li class="footer-submenu__item">
                                 <a class="no-style footer-submenu__item-link"
-                                   href="/kottedzhi-i-doma/dachnoe-osteklenie/">Дачное остекление </a>
+                                   href="/kottedzhi-i-doma">Дачное остекление </a>
                             </li>
                         </ul>
                     </li>

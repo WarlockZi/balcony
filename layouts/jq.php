@@ -31,7 +31,7 @@
          }
 
          if ((phone.length == 16) && (checked == 1)) {
-            $.post('/balcony/ajax', {action: "send", phone: phone, capt: capt}, function (data) {
+            $.post('/ajax', {action: "send", phone: phone, capt: capt}, function (data) {
                $('.modal-bg').addClass('active');
                $('.dialog').addClass('active');
                $(".main-banner__form").trigger('reset');
@@ -65,7 +65,7 @@
 
 
          if ((phone.length == 16) && (checked == 1)) {
-            $.post('/balcony/ajax', {action: "send", phone: phone, capt: capt}, function (data) {
+            $.post('/ajax', {action: "send", phone: phone, capt: capt}, function (data) {
                $('.modal-bg').addClass('active');
                $('.dialog').addClass('active');
                $(".window-decor-form__main").trigger('reset');
@@ -143,7 +143,7 @@
 
 
          if ((phone.length == 16) && (checked == 1)) {
-            $.post('/balcony/ajax', {action: "send", phone: phone, name: name, capt: capt}, function (data) {
+            $.post('/ajax', {action: "send", phone: phone, name: name, capt: capt}, function (data) {
                $('.modal-bg').addClass('active');
                $('.dialog').addClass('active');
                $(".free-meas-form__form").trigger('reset');

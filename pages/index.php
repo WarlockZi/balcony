@@ -1,5 +1,6 @@
 <main class="main-container">
     <?php
+    include INC . 'hero_banner/index_banner.php';
     include INC . 'cta1_zamer.php';
     include INC . 'about_company.php';
     include INC . 'services.php';

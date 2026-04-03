@@ -4,7 +4,7 @@
 
         <div class="tile-advantage__wrap tile-advantage__col3">
 
-            <a href="/servis/zamena-uplotnitelya/" class="tile-advantage__item">
+            <a href="/cervice" class="tile-advantage__item">
                 <div class="tile-advantage__card tile-card ">
                     <div class="tile-advantage__card-bg">
                         <img class="img lazyload"
@@ -15,7 +15,7 @@
                 </div>
             </a>
 
-            <a href="/servis/zamena-uplotnitelya/" class="tile-advantage__item">
+            <a href="/service" class="tile-advantage__item">
                 <div class="tile-advantage__card tile-card ">
                     <div class="tile-advantage__card-bg">
                         <img class="img lazyload"
@@ -37,7 +37,7 @@
                 </div>
             </a>
 
-            <a href="/servis/zamena-steklopaketa/" class="tile-advantage__item">
+            <a href="/service" class="tile-advantage__item">
                 <div class="tile-advantage__card tile-card ">
                     <div class="tile-advantage__card-bg">
                         <img class="img lazyload"
@@ -48,7 +48,7 @@
                 </div>
             </a>
 
-            <a href="/servis/zamena-otkosov/" class="tile-advantage__item">
+            <a href="/service" class="tile-advantage__item">
                 <div class="tile-advantage__card tile-card ">
                     <div class="tile-advantage__card-bg">
                         <img class="img lazyload"
@@ -70,7 +70,7 @@
                 </div>
             </a>
 
-            <a href="/servis/remont-i-zamena-furnitury/" class="tile-advantage__item">
+            <a href="/service" class="tile-advantage__item">
                 <div class="tile-advantage__card tile-card ">
                     <div class="tile-advantage__card-bg">
                         <img class="img lazyload"
@@ -81,7 +81,7 @@
                 </div>
             </a>
 
-            <a href="/servis/zamena-otkosov/" class="tile-advantage__item">
+            <a href="/service" class="tile-advantage__item">
                 <div class="tile-advantage__card tile-card ">
                     <div class="tile-advantage__card-bg">
                         <img class="img lazyload"
@@ -92,7 +92,7 @@
                 </div>
             </a>
 
-            <a href="/servis/detskaya-bezopasnost/" class="tile-advantage__item">
+            <a href="/service" class="tile-advantage__item">
                 <div class="tile-advantage__card tile-card ">
                     <div class="tile-advantage__card-bg">
                         <img class="img lazyload"
