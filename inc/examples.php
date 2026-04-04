@@ -130,7 +130,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-10">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/1.jpg"
+                                     src="<?=IMG?>examples/pasha/door.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -142,7 +142,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-11">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/4/1.jpg"
+                                     src="<?=IMG?>examples/pasha/door1.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -154,7 +154,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-12">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/5/1.jpg"
+                                     src="<?=IMG?>examples/pasha/door2.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -166,7 +166,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-13">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/6/1.jpg"
+                                     src="<?=IMG?>examples/pasha/door3.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -178,7 +178,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-14">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/2.jpg"
+                                     src="<?=IMG?>examples/pasha/door4.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -190,7 +190,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-15">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/3.jpg"
+                                     src="<?=IMG?>examples/pasha/door5.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -202,7 +202,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-16">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/4.jpg"
+                                     src="<?=IMG?>examples/pasha/door6.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -214,7 +214,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-17">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/5.jpg"
+                                     src="<?=IMG?>examples/pasha/door7.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -226,7 +226,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-18">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/6.jpg"
+                                     src="<?=IMG?>examples/pasha/door8.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -238,7 +238,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-19">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/7.jpg"
+                                     src="<?=IMG?>examples/pasha/door9.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -250,7 +250,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-20">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/8.jpg"
+                                     src="<?=IMG?>examples/pasha/door10.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -262,7 +262,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-21">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/9.jpg"
+                                     src="<?=IMG?>examples/pasha/window.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -274,7 +274,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-22">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/10.jpg"
+                                     src="<?=IMG?>examples/pasha/window1.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -286,7 +286,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-23">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/11.jpg"
+                                     src="<?=IMG?>examples/pasha/window2.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -298,7 +298,7 @@
                         <div class="simple-card__img main-portfolio-img">
                             <a href="#" data-certif-modal="#modal-zoom-porfolio-24">
                                 <img alt="1"
-                                     src="<?=IMG?>examples/3/12.jpg"
+                                     src="<?=IMG?>examples/pasha/balcony.jpg"
                                      class="img action-slide-img lazyload" width="400" height="200">
                             </a>
                         </div>
@@ -346,8 +346,8 @@
 
                     <div class="certif-slider__window swiper-slide hystmodal__window" role="dialog"
                          aria-modal="true">
-                        <div class="certif-slider__zoom-img"><img alt="" class="img lazyload"
-                                                                  data-src="/upload/resize_cache/webp/iblock/07b/lrwlqosz53yz3fvle21tixuz5n1pkmou.webp">
+                        <div class="certif-slider__zoom-img">
+                            <img alt="" class="img lazyload" data-src="examples/pasha/balcony.jpg">
                         </div>
                     </div>
 

@@ -5,10 +5,10 @@
         </div>
     </div>
     <div class="main-banner-bg main-banner-bg--animation-scale">
-        <img src="<?=IMG?>/header_hero/balcon_hero_header.webp" alt="Остекление балконов и лоджий в Новосибирске" decoding="async" width="2560" height="1440">
+        <img src="<?=IMG?>/header_hero/balcon_hero_header.webp" alt="Остекление балконов и лоджий в Вологде" decoding="async" width="2560" height="1440">
     </div>
     <div class="inner-container main-banner__container">
-        <h1 class="h1 main-banner__head-title">Остекление<br> балконов и лоджий под ключ в Новосибирске</h1>
+        <h1 class="h1 main-banner__head-title">Остекление<br> балконов и лоджий под ключ в Вологде</h1>
         <div class="main-banner__desc">
         </div>
 
