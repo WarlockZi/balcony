@@ -182,7 +182,7 @@
                     </li>
                     <li class="mob-mega-menu__item js-mob-mg-item">
                         <div class="mob-mg-item">
-                            <div class="mob-mg-item__label">Дополнительно</div>
+<!--                            <div class="mob-mg-item__label">Дополнительно</div>-->
                             <div class="mob-mg-item__arrow">
                                 <svg class="ico">
                                     <use xlink:href="/public/src/balcony/images/interface.svg#short-arrow-right"></use>
@@ -190,14 +190,14 @@
                             </div>
                         </div>
                         <div class="mob-mega-menu__submenu mob-mg-submenu js-mg-submenu">
-                            <div class="mob-mg-submenu__head">
-                                <div class="mob-mg-submenu__head-back js-mob-mg-back">
-                                    <svg class="ico">
-                                        <use xlink:href="/public/src/balcony/images/interface.svg#short-arrow-left"></use>
-                                    </svg>
-                                </div>
-                                <span class="no-style mob-mg-submenu__head-label"> 																Дополнительно																	</span>
-                            </div>
+<!--                            <div class="mob-mg-submenu__head">-->
+<!--                                <div class="mob-mg-submenu__head-back js-mob-mg-back">-->
+<!--                                    <svg class="ico">-->
+<!--                                        <use xlink:href="/public/src/balcony/images/interface.svg#short-arrow-left"></use>-->
+<!--                                    </svg>-->
+<!--                                </div>-->
+<!--                                <span class="no-style mob-mg-submenu__head-label">Дополнительно</span>-->
+<!--                            </div>-->
                             <ul class="mob-mg-submenu__list">
                                 <li class="mob-mg-submenu__item js-mob-mg-item"><a href="{{$domain}}/services/"
                                                                                    class="no-style mob-mg-item">
@@ -229,9 +229,9 @@
                         </div>
                     </li>
 
-                    <li class="mob-mega-menu__item js-mob-mg-item"><a href="/accii" class="no-style mob-mg-item">
-                            <div class="mob-mg-item__label">Акции</div>
-                        </a></li>
+<!--                    <li class="mob-mega-menu__item js-mob-mg-item"><a href="/accii" class="no-style mob-mg-item">-->
+<!--                            <div class="mob-mg-item__label">Акции</div>-->
+<!--                        </a></li>-->
 
 
 

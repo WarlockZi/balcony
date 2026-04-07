@@ -7,6 +7,7 @@ class Router
     public function __construct(
         private array $routes = [
             'lodgii'=>'/lodgii/',
+            'contacts'=>'/contacts/',
             'windows'=>'/windows/',
             'kottedzhi-i-doma'=>'/kottedzhi-i-doma/',
             'service'=>'/service/',

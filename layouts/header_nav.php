@@ -19,28 +19,29 @@
                 <a class="no-style main-menu__label" href="/contacts/">Контакты</a>
             </li>
 
-            <li data-submenu-toggle="" class="main-menu__item">
-                <a class="no-style main-menu__label" href="/company/">О нас</a>
-                <div data-submenu="" class="main-menu__submenu submenu">
-                    <ul class="submenu__list">
-                        <li class="submenu__item">
-                            <a class="submenu__link" href="/company/reviews/">Отзывы клиентов</a>
-                        </li>
-                        <li class="submenu__item">
-                            <a class="submenu__link" href="/company/news/">Новости</a>
-                        </li>
-                        <li class="submenu__item">
-                            <a class="submenu__link" href="/company/articles/">Статьи</a>
-                        </li>
-                        <li class="submenu__item">
-                            <a class="submenu__link" href="/company/director/">Написать Директору</a>
-                        </li>
-                        <li class="submenu__item">
-                            <a class="submenu__link" href="/contacts/">Контакты</a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
+<!--            <li data-submenu-toggle="" class="main-menu__item">-->
+<!--                <a class="no-style main-menu__label" href="/company/">О нас</a>-->
+<!--                <div data-submenu="" class="main-menu__submenu submenu">-->
+<!--                    <ul class="submenu__list">-->
+<!--                        <li class="submenu__item">-->
+<!--                            <a class="submenu__link" href="/company/reviews/">Отзывы клиентов</a>-->
+<!--                        </li>-->
+<!--                        <li class="submenu__item">-->
+<!--                            <a class="submenu__link" href="/company/news/">Новости</a>-->
+<!--                        </li>-->
+<!--                        <li class="submenu__item">-->
+<!--                            <a class="submenu__link" href="/company/articles/">Статьи</a>-->
+<!--                        </li>-->
+<!--                        <li class="submenu__item">-->
+<!--                            <a class="submenu__link" href="/company/director/">Написать Директору</a>-->
+<!--                        </li>-->
+<!--                        <li class="submenu__item">-->
+<!--                            <a class="submenu__link" href="/contacts/">Контакты</a>-->
+<!--                        </li>-->
+<!--                    </ul>-->
+<!--                </div>-->
+<!--            </li>-->
+
         </ul>
 
         <div class="head-menu__group">
@@ -109,15 +110,15 @@
                         </a>
                     </li>
                     <li class="swiper-slide mega-menu__item js-mega-menu-item only-desktop">
-                        <div class="mega-menu-item">
-                            <div class="mega-menu-item__label">Дополнительно</div>
-                        </div>
+<!--                        <div class="mega-menu-item">-->
+<!--                            <div class="mega-menu-item__label">Дополнительно</div>-->
+<!--                        </div>-->
                     </li>
-                    <li class="swiper-slide mega-menu__item js-mega-menu-item ">
-                        <a href="/accii" class="no-style mega-menu-item ">
-                            <div class="mega-menu-item__label">Акции</div>
-                        </a>
-                    </li>
+<!--                    <li class="swiper-slide mega-menu__item js-mega-menu-item ">-->
+<!--                        <a href="/accii" class="no-style mega-menu-item ">-->
+<!--                            <div class="mega-menu-item__label">Акции</div>-->
+<!--                        </a>-->
+<!--                    </li>-->
                 </ul>
 
                 <div class="head-slider__prev" data-head-slider-prev="">

@@ -30,4 +30,8 @@ class BalconyController extends AppController
     {
         view('admin.balcony.pages.lodgii',compact('data', 'conf'));
     }
+    public function actionContacts(): void
+{
+    view('admin.balcony.pages.contacts',compact('data', 'conf'));
+}
 }

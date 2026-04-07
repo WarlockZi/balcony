@@ -22,7 +22,7 @@
 </div>
 
 <div class="whatsap4-button">
-    <a href="tel:+79139121454" target="_blank">
+    <a href="tel:<?=CONF['phone']?>" target="_blank">
         <img src="<?=IMG?>phone.svg" alt="Телефон">
     </a>
 </div>

@@ -5,11 +5,14 @@
         </div>
     </div>
     <div class="main-banner-bg main-banner-bg--animation-scale">
-        <img src="<?=IMG?>header_hero/balcon_hero_header.webp" alt="Остекление балконов и лоджий в Вологде" decoding="async" width="2560" height="1440">
+        <img src="<?=IMG?>header_hero/contacts_hero_header.jpg" alt="Остекление балконов и лоджий в Вологде" decoding="async" width="2560" height="1440">
     </div>
     <div class="inner-container main-banner__container">
-        <h1 class="h1 main-banner__head-title">Остекление<br> балконов и лоджий под ключ в Вологде</h1>
+        <h1 class="h1 main-banner__head-title">Наши контакты</h1>
+
         <div class="main-banner__desc">
+            <p>email: <?=CONF['email']?></p>
+            <p>phone: <?=CONF['phone']?></p>
         </div>
 
         <form class="main-banner__form" action="/ajax/?controller=form&amp;action=add" novalidate="novalidate"><input type="hidden" name="capt" value="453457686796898745345gh355q5yh3">

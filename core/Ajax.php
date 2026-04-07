@@ -7,11 +7,11 @@ class Ajax
     public static function handle(string $url): bool
     {
         $method = $url;
-        $token = $_ENV['BALCONY_TOKEN'];
+        $token  = $_ENV['BALCONY_TOKEN'];
         $chatId = $_ENV['BALCONY_CHANAL_ID'];
 
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-            $name = htmlspecialchars($_POST['name']);
+            $name  = htmlspecialchars($_POST['name'] ?? '');
             $phone = htmlspecialchars($_POST['phone']);
 
             $text = "Новое сообщение с сайта:\n\n";
@@ -19,7 +19,7 @@ class Ajax
             $text .= "тел: $phone\n";
             $text .= "перезвоните мне по ремонту балконов ";
 
-            $url = "https://api.telegram.org/bot{$token}/sendMessage";
+            $url  = "https://api.telegram.org/bot{$token}/sendMessage";
             $data = [
                 'chat_id' => $chatId,
                 'text' => $text,
@@ -36,11 +36,19 @@ class Ajax
             $response = curl_exec($ch);
             curl_close($ch);
 
-            $responseData = json_decode($response, true);
-            if ($responseData['ok']) {
+            $resp = json_decode($response, true);
+            if (!is_array($resp)) {
+                echo "Ошибка: Не удалось обработать ответ сервера.";
+                exit;
+            }
+
+            $isSuccess   = $resp['ok'] ?? false;
+            $description = $resp['description'] ?? 'Неизвестная ошибка';
+
+            if ($isSuccess) {
                 echo "Сообщение отправлено!";
             } else {
-                echo "Ошибка: " . $responseData['description'];
+                echo "Ошибка: " . htmlspecialchars($description, ENT_QUOTES, 'UTF-8');
             }
         }
         return true;

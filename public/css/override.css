@@ -16,6 +16,14 @@
         }
     }
 }
+.yarmaps{
+    display: grid;
+    grid-template-columns: 1fr 220px;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
+
 .profili-tabs-product_item_info{
     margin-bottom: 20px;
 }

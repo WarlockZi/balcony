@@ -12,6 +12,8 @@ define('PAGE', dirname(__DIR__, 1) . $s . "pages" . $s);
 $conf = [
     'company' => 'Балконная дверь',
     'city' => 'Вологда',
+    'street' => 'Октябрьская',
+    'house' => '27',
 
     'email' => 'Paha12@icloud.com',
 
@@ -22,11 +24,12 @@ $conf = [
     'tg_username' => '@volbalkonBot',
 
     'work_from' => '9:00',
-    'work_to' => '19:00'
+    'work_to' => '19:00',
+    'work_days' => 'Пн-Сбб',
 ];
 $data = [
     'domain' => '/',
-    'address' => 'г. Вологда, ул. Октябрьская, 27',
+    'address' => "г. {$conf['city']}, ул. {$conf['street']}, {$conf['house']}",
     'email_href' => "mailto:{$conf['email']}",
     'phone_href' => "tel:{$conf['phone']}",
 
