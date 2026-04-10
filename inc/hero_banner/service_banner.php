@@ -20,12 +20,12 @@
                     <label class="control__label">Ваш телефон</label> <input class="control__input js-user-phone" name="user-phone" placeholder="+7(999)888-77-66" type="tel" required="" autocomplete="tel">
                 </div>
             </div>
-            <button class="btn js-button">Рассчитать со скидкой 35%</button>
+            <button class="btn js-button">Рассчитать со скидкой</button>
             <div class="main-banner__person-data">
                 <label class="checkbox-small js-checkbox-small">
                     <input class="checkbox-small__input js-person-data" type="checkbox" name="person-data" id="banner-person-data">
                     <label class="checkbox-small__checkbox" for="banner-person-data"></label>
-                    <span class="checkbox-small__label">Нажимая на кнопку «Рассчитать со скидкой 35%», я даю согласие на <a href="/soglasiye.php" target="_blank" class="a no-style"><span>обработку своих персональных данных</span></a> и соглашаюсь с <a href="/confidence.php" target="_blank" class="a no-style"><span>политикой конфиденциальности</span></a></span>
+                    <span class="checkbox-small__label">Нажимая на кнопку «Рассчитать со скидкой», я даю согласие на <a href="/soglasiye.php" target="_blank" class="a no-style"><span>обработку своих персональных данных</span></a> и соглашаюсь с <a href="/confidence.php" target="_blank" class="a no-style"><span>политикой конфиденциальности</span></a></span>
                 </label>
             </div>
         </form>	</div>
